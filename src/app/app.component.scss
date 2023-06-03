@@ -1,0 +1,54 @@
+mat-toolbar{
+    background-color: #5c76f6;
+    color: white;
+}
+.myCard{
+    height: 400px;
+    // width: 800px;
+    background-color: #adbbff;
+}
+mat-sidenav{
+    margin: 16px;
+    width: 280px;
+    border-right: none;
+    background: #5c76f6;
+    color: white;
+    border-radius: 10px;
+    padding: 16px;
+    // text-align: center;
+}
+.content{
+    height: calc(100vh - 98px);
+    // margin: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-right: 10px;
+    // margin-left: 100px;
+    // padding-left: 10px;
+    // padding-top: 10px;
+    // width: 50%;
+    // margin-left: 32px;
+    display: flex;
+    // justify-content: center;
+    // align-items: center;
+    font-size: 2rem;
+    color: lightgray;
+    // border-radius: 10px;
+}
+// .content p{
+    
+// }
+section{
+    border-radius: 10px;
+}
+// .card-item{
+//     height: 90%;
+// }
+.content img{
+    height: 30%;
+    width: 100%;
+}
+
+mat-sidenav-container{
+    background-color: white;
+}
